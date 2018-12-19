@@ -1,0 +1,22 @@
+{
+  "name": "gemories",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Herrad/gemories.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Herrad/gemories/issues"
+  },
+  "homepage": "https://github.com/Herrad/gemories#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
